@@ -1,2 +1,0 @@
-# mvaug
-mv augusta clone
